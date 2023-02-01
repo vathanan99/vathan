@@ -1,0 +1,44 @@
+.column{float: left;
+        width: 50%;
+        height: 200px;
+        
+
+}
+.f2{float: left;
+    width: 33%;
+    height: 300px;}
+
+    .mkd{float: left;
+        width: 50%;
+        height: 200px;
+
+}
+.photo{margin-left: 350px;
+    padding: 0px;
+    
+
+}
+.bob{background-color: lightgray;
+
+}
+.hop{background-color: lightgreen;
+
+}
+.qqq{border-collapse: collapse;
+    width: 100%;
+
+}
+.ee{
+    margin-left: 300px;
+    margin-top: 20px;
+    background-color: blue;
+}
+.aa{
+    background-color: lawngreen;
+}
+.mkd{
+    text-align: center;
+}
+.nn{margin-left: 150px;
+
+}
